@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KidInASquid   😄 Pronouns: he / him
-- Studying EE @ VT
+- Studying BSEE @ VT Blacksburg,VA
 - self taught in programming (mostly to disprove CS majors)
 
 <!---
