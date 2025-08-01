@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KidInASquid   😄 Pronouns: he / him
 - Studying BSEE @ VT Blacksburg,VA
-- self taught in programming (mostly to disprove CS majors)
-- ok thats a lie now, theyre making me learn more for my degree 😒
 - Member of VT SolarCar (Electrical) 2024-Present
 - Member then later President of FTC Team 17394 Howard Robotics 2021-24
 <!---
